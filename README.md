@@ -2,7 +2,7 @@
 
 A fun and interactive memory-matching game built with React.js using emojis, state management, and custom game logic.
 
-### 🔗 Live Demo: https://gameofmemorycards.netlify.app/
+### 🔗 Live Demo: https://gameofmemorycards.netlify.app/](https://memory-card-three-mauve.vercel.app/
 
 ## 🚀 Features
 
